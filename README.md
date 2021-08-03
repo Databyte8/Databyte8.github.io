@@ -1,6 +1,2 @@
-# Website
-You are not on the right page unless you want to contribute to my website, otherwise, go here: https://matteodev8.github.io/
-
-# To-Do's
-1. Fix Text: Text is scrolling down after window resizing. STATUS: ✔
-2. New Content: Tools Page. STATUS: ⚠
+# IMPORTANT 
+This page is no longer used, please head over to https://matteodev.xyz (Website will be used for GitHub Projects only)
